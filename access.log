@@ -1,0 +1,10 @@
+INFO user=k9tco@test.org status=200
+INFO blob=not-an-email ref=2515
+INFO user=ryffv9y455@example.com status=200
+INFO user=h.2es@test.org status=200
+INFO blob=not-an-email ref=5463
+INFO blob=user@bad_domain ref=2517
+INFO blob=12345 ref=4282
+INFO blob=12345 ref=6610
+INFO blob=nope ref=8543
+INFO user=a8349fmys5@example.com status=200
